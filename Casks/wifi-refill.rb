@@ -8,7 +8,7 @@ cask "wifi-refill" do
   homepage "https://hweihwang.com/wifi-refill/"
 
   auto_updates true
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Wi-Fi Refill.app"
 
