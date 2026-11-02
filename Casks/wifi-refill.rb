@@ -1,6 +1,6 @@
 cask "wifi-refill" do
-  version "1.1.0"
-  sha256 "ae1720529418fc21243f3a40231535ac06e301db769ec726a0904e79b05e0caa"
+  version "1.1.1"
+  sha256 "51e3152df721f1d12ae3bb24d188ac8bfea5c007ee1c70130935b24329b5d773"
 
   url "https://github.com/hweihwang/wifi-refill/releases/download/v#{version}/Wi-Fi-Refill.dmg"
   name "Wi-Fi Refill"
